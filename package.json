@@ -1,6 +1,6 @@
 {
   "name": "chart-react-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Component for data Visualization on Charts",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
     "prop-types": "15.7.2"
   },
   "devDependencies": {
-    "react": "^16.8.6",
-    "react-native": "^0.60.4"
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
   },
   "keywords": [
     "react",
